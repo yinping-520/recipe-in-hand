@@ -18,9 +18,9 @@
 
 ## Links:
 
-🍹 [Live Website](https://kerilp.github.io/quick-fix-recipe/)
+🍹 [Live Website](https://yinping-520.github.io/recipe-in-hand/)
 
-🥪 [Source Code](https://github.com/kerilp/quick-fix-recipe)
+🥪 [Source Code](https://github.com/yinping-520/recipe-in-hand)
 
 ## Languages & Resources:
 
